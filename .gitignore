@@ -1,1 +1,16 @@
+.coverage
+*.swp
+*.pyc
+.token
+.DS_Store
+.Python
+.tox
+bin/
+build/
+dist/
+include/
+lib/
+resolver.egg-info/
+share/
 .idea*
+.venv*
