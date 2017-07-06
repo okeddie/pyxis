@@ -3,6 +3,7 @@
 This is a test script to zip some tuples.
 """
 
+
 def mash():
     tup1 = ('1', '2', '3', '4')
     tup2 = ('red', 'orange', 'green', 'blue')
